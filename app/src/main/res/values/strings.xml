@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_call_fragment">Hello Ini halaman call</string>
+    <string name="hello_chat_fragment">Hello Ini halaman chat</string>
+    <string name="hello_contact_fragment">Hello Ini halaman contact</string>
+</resources>
